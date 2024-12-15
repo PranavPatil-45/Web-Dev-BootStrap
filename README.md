@@ -10,4 +10,4 @@
 <br>
 <a href="https://github.com/PranavPatil-45/Web-Dev-BootStrap/tree/main/Bootsrtrap%20PR"><img src="act.png"></a>
 <br>
-<a href="https://github.com/PranavPatil-45/Web-Dev-BootStrap/tree/main/Bootstrap%20Exam">< img src="ext.png"></a>
+<a href="https://github.com/PranavPatil-45/Web-Dev-BootStrap/tree/main/Bootstrap%20Exam"><img src="ext.png"></a>
